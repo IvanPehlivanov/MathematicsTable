@@ -1,0 +1,15 @@
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\bin\Debug\MathematicsTable.exe.config
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\bin\Debug\MathematicsTable.exe
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\bin\Debug\MathematicsTable.pdb
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.csprojAssemblyReference.cache
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MainWindow.g.cs
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\App.g.cs
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable_MarkupCompile.cache
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable_MarkupCompile.lref
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MainWindow.baml
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.g.resources
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.Properties.Resources.resources
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.csproj.GenerateResource.cache
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.csproj.CoreCompileInputs.cache
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.exe
+C:\Users\rosar\OneDrive\Desktop\MyPortfolio\MathematicsTable\MathematicsTable\MathematicsTable\obj\Debug\MathematicsTable.pdb
